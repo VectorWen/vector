@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, VectorActivity!</string>
+    <string name="app_name">Vector</string>
+    
+    <string name="my_name">Vector Huang</string>
+
+</resources>

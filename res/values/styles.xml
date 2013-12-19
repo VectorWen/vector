@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <style name="AcivityTheme_start">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+	
+    <style name="AcivityTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

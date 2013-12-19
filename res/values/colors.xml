@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <color name="transparent">#00000000</color>
+    <color name="gold">#b89766</color>
+    
+    <!-- 我喜欢的三个主色 和黑白灰 -->
+	<color name="maincolor1">#336699</color>
+	<color name="maincolor2">#0099cc</color>
+	<color name="maincolor3">#666666</color>
+	
+	<color name="white">#ffffff</color>
+	<color name="black">#222222</color>
+</resources>
